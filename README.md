@@ -1,4 +1,4 @@
-# BJTU-Autoparking
+# BJTU-Autoparking for Customer
 
 This project is a platform made for high-speed railway intelligent auto parking algorithm by a BJTU team.
 
