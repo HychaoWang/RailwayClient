@@ -1,5 +1,4 @@
 # BJTU-Autoparking
 
-This project is a platform made for high-speed railway intelligent auto parking algorithm.
-
-This project is created and coded by a team led by HeHe.
+This project is a platform made for high-speed railway intelligent auto parking algorithm by a BJTU team.
+We use Pyqt5 and Python Flask to build this project.
